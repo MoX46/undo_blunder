@@ -9,13 +9,14 @@ Goal: a tool which pulls chess game data from various sites (chess.com, lichess,
 
 Basic steps:
 
-[] pull data from various different websites
-[] analyze data and glean insights
-[] collect and store data for bulk analysis (also do other random games, players)
-[] show end user recommendations
-[] section to show which move orders are well played, which are not, and shich moves you can improve on the most. It should also provide recommendations on what to play next in that scenario. 
-[] section which shows which type of bluders you most make and resources to learn how not to maek those (puzzles, tutorials, etc.)
+[ ] pull data from various different websites
+[ ] analyze data and glean insights
+[ ] collect and store data for bulk analysis (also do other random games, players)
+[ ] show end user recommendations
+[ ] section to show which move orders are well played, which are not, and shich moves you can improve on the most. It should also provide recommendations on what to play next in that scenario. 
+[ ] section which shows which type of bluders you most make and resources to learn how not to maek those (puzzles, tutorials, etc.)
 
 
 Notes:
-Maybe some AI/machine learning algorithms be implemnted? Or all this shoudl be h and written? 
+
+* Maybe some AI/machine learning algorithms be implemnted? Or all this shoudl be h and written? 
