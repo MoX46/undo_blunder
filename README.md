@@ -10,7 +10,9 @@ Goal: a tool which pulls chess game data from various sites (chess.com, lichess,
 Basic steps:
 
 - [ ] pull data from various different websites
-- [ ] analyze data and glean insights
+- [ ] analyze data
+  - [ ] identify openings (opening database?)
+  - [ ] identify common themes (fork, pins, skewers, deflection, etc.)
 - [ ] collect and store data for bulk analysis (also do other random games, players)
 - [ ] show end user recommendations
 - [ ] section to show which move orders are well played, which are not, and shich moves you can improve on the most. It should also provide recommendations on what to play next in that scenario. 
@@ -19,4 +21,8 @@ Basic steps:
 
 Notes:
 
-* Maybe some AI/machine learning algorithms be implemnted? Or all this shoudl be h and written? 
+* Maybe some AI/machine learning algorithms be implemnted? Or all this shoudl be hand written?
+
+ToDo:
+
+ 
